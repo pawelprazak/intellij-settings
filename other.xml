@@ -1,0 +1,186 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AOP</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="BrainLegConfiguration">
+    <option name="ignoreFullTracesNoLinesMD5s">
+      <set>
+        <option value="1046f470cbb25e2a9ecbd4384b91ac81" />
+        <option value="7d9c687718ac56ad276f1a07171d542d" />
+        <option value="887aa1dfabec8df8b21ea04e2acb9546" />
+        <option value="a0459a6d27cb12ec9c4ac979f140a7bf" />
+        <option value="afb3158a9aa3b61b02a0ac82311dadc9" />
+        <option value="d2d13894f42d969d3297c18cdcae3355" />
+      </set>
+    </option>
+    <option name="dontShowNotificationsFullTracesNoLinesMD5s">
+      <set>
+        <option value="41f82af316085f50894a9dfdc646379e" />
+        <option value="4981546cbbfb13f68fa576ff42e58e85" />
+        <option value="9fcaecc2dbd964bc5f2fce41874a2904" />
+        <option value="ddeca7f1d1d3dfa4fed7e9546e06c751" />
+      </set>
+    </option>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="DuplocatorSettings">
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="Java" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="Java" />
+  </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://camel.apache.org/schema/blueprint" location="$USER_HOME$/.IntelliJIdea14/system/extResources/e5547c92_camel-blueprint-2.10.0.xsd" />
+    <resource url="http://karaf.apache.org/xmlns/features/v1.0.0" location="$USER_HOME$/.IntelliJIdea14/system/extResources/5fcce672_v1.0.0.xml" />
+    <resource url="http://maven.apache.org/xsd/settings-1.1.0.xsd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/d9da5963_settings-1.1.0.xsd" />
+    <ignored-resource url="http://fusesource.com/examples/order/v7" />
+    <ignored-resource url="http://trevica.pl/service/incontrol" />
+  </component>
+  <component name="PropertiesRefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS" value="true" />
+  </component>
+  <component name="PropertiesSeparatorManager">
+    <file url="file://$USER_HOME$/repos/trevica-incontrol-esb/test-big/src/test/resources/maven.properties" separator="\u002e" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_FIELD" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Compiler (errors)" />
+        <option value="Compiler (success)" />
+        <option value="TestRunner" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="$USER_HOME$/repos/trevica-incontrol-esb">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/repos/trevica-incontrol-esb" />
+  </component>
+  <component name="WebServicesPluginSettings" WebServicesUrlPathPrefix="/services" ASK_TO_INSTALL_SOAPUI="true" />
+  <component name="XPathView.XPathViewPlugin">
+    <option name="attributes">
+      <TextAttributes />
+    </option>
+    <option name="contextAttributes">
+      <TextAttributes />
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="XSLT Stylesheet" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0" location="$USER_HOME$/.IntelliJIdea13/system/extResources/70b89198_v1.0.0.xml" />
+    <resource url="http://karaf.apache.org/xmlns/features/v1.2.0" location="$USER_HOME$/.IntelliJIdea13/system/extResources/5fccedf4_v1.2.0.xml" />
+    <resource url="http://aries.apache.org/blueprint/xmlns/blueprint-cm/v1.0.0" location="$USER_HOME$/.IntelliJIdea13/system/extResources/3b9e284a_v1.0.0.xml" />
+    <resource url="http://www.britenet.com.pl/service/orbiscom/request" location="$USER_HOME$/repos/trevica-incontrol-esb/esb-incontrol-proxy/src/main/resources/ws/xsd/OrbiscomRequest-Retail-13-1.xsd" />
+    <resource url="http://aries.apache.org/blueprint/xmlns/blueprint-cm/v1.1.0" location="$USER_HOME$/.IntelliJIdea13/system/extResources/3b9e2c0b_v1.1.0.xml" />
+    <resource url="http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd" location="$USER_HOME$/.IntelliJIdea13/system/extResources/7752ceb7_blueprint.xsd" />
+    <resource url="http://karaf.apache.org/xmlns/features/v1.0.0" location="$USER_HOME$/.IntelliJIdea13/system/extResources/5fcce672_v1.0.0.xml" />
+    <resource url="http://www.w3.org/2000/09/xmldsig#" location="$USER_HOME$/.IntelliJIdea13/system/extResources/3ddbaac8_xmldsig#.xml" />
+    <resource url="http://maven.apache.org/xsd/settings-1.1.0.xsd" location="$USER_HOME$/.IntelliJIdea13/system/extResources/d9da5963_settings-1.1.0.xsd" />
+    <resource url="http://www.britenet.com.pl/service/orbiscom/response" location="$USER_HOME$/repos/trevica-incontrol-esb/esb-incontrol-proxy/src/main/resources/ws/xsd/OrbiscomResponse-Retail-13-1.xsd" />
+    <resource url="http://camel.apache.org/schema/blueprint" location="$USER_HOME$/.IntelliJIdea13/system/extResources/e5547c92_camel-blueprint-2.10.0.xsd" />
+    <resource url="http://aries.apache.org/blueprint/xmlns/blueprint-ext/v1.0.0" location="$USER_HOME$/.IntelliJIdea13/system/extResources/4968f967_v1.0.0.xml" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" HIGHLIGHT_MODE="BY_WORD" />
+</application>

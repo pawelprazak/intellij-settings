@@ -1,0 +1,30 @@
+<templateSet group="custom">
+  <template name="autovalue" value="@com.google.auto.value.AutoValue&#10;public static abstract class Data {&#10;&#10;    public static Data data($ARG1_TYPE$ $ARG1_NAME$, $ARG2_TYPE$ $ARG2_NAME$) {&#10;        return new AutoValue_$CLASS_NAME$_Data($ARG1_NAME$, $ARG2_NAME$);&#10;    }&#10;&#10;    public abstract $ARG1_TYPE$ $ARG1_NAME$();&#10;    public abstract $ARG2_TYPE$ $ARG2_NAME$();&#10;}" description="@AutoValue template" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="ARG1_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARG1_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARG2_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARG2_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="datapoints" value="@DataPoints&#10;public static final Data[] samples = new Data[]{&#10;        data($INPUT$, $OUTPUT$),&#10;};" description="@DataSamples for JUnit 4 Theories runner" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="INPUT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OUTPUT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="sfm" value="public static $CLASS_NAME$ $METHOD_NAME$($PARAMS$) {&#10;  return new $CLASS_NAME$($PARAMS$);&#10;}" description="Inserts static factory method" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className" defaultValue="" alwaysStopAt="false" />
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
