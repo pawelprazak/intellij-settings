@@ -3,11 +3,7 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://repos.britenet.com.pl" />
-          <option name="userName" value="pprazak" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/pawelprazak/jeff.git" />
+          <option name="url" value="https://github.com/pawelprazak/jeff-native-agent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
