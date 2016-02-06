@@ -9,6 +9,8 @@
     <EXCLUDED_PACKAGE NAME="jline.internal" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
     <EXCLUDED_PACKAGE NAME="org.jledit.jline" />
+    <EXCLUDED_PACKAGE NAME="org.omg.CORBA" />
+    <EXCLUDED_PACKAGE NAME="org.omg.CORBA_2_3" />
     <EXCLUDED_PACKAGE NAME="sun.management" />
     <EXCLUDED_PACKAGE NAME="sun.plugin2" />
     <EXCLUDED_PACKAGE NAME="sun.util" />
