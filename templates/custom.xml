@@ -12,10 +12,87 @@
     <variable name="OUTPUT" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="sfm" value="public static $CLASS_NAME$ $METHOD_NAME$($PARAMS$) {&#10;  return new $CLASS_NAME$($PARAMS$);&#10;}" description="Inserts static factory method" toReformat="true" toShortenFQNames="true">
+  <template name="sfm" value="public static $CLASS_NAME$ $METHOD_NAME$($PARAMS$) {&#10;  return new $CLASS_NAME$($PARAMS$);&#10;}" description="Inserts static factory method" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="CLASS_NAME" expression="className" defaultValue="" alwaysStopAt="false" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMS" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
     <context />
+  </template>
+  <template name="eer" value="@org.junit.Rule&#10;public org.junit.rules.ExpectedException exception = org.junit.rules.ExpectedException.none();" description="Expected exception JUnit rule" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JSP" value="false" />
+      <option name="SQL" value="false" />
+      <option name="ColdFusion" value="false" />
+      <option name="AsciiDoc" value="false" />
+      <option name="Bash" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="ASPECTJ" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="pc" value="private $TYPE$() {&#10;    throw new java.lang.UnsupportedOperationException();&#10;}" description="private constructor" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="TYPE" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JSP" value="false" />
+      <option name="SQL" value="false" />
+      <option name="ColdFusion" value="false" />
+      <option name="AsciiDoc" value="false" />
+      <option name="Bash" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="ASPECTJ" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
   </template>
 </templateSet>

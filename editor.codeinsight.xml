@@ -1,17 +1,25 @@
 <application>
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="autovalue.shaded" />
+    <EXCLUDED_PACKAGE NAME="com.bluecatcode.guava.shaded" />
+    <EXCLUDED_PACKAGE NAME="com.sun" />
     <EXCLUDED_PACKAGE NAME="com.sun.istack" />
     <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal" />
+    <EXCLUDED_PACKAGE NAME="java.awt" />
     <EXCLUDED_PACKAGE NAME="javax.swing" />
     <EXCLUDED_PACKAGE NAME="jdk.internal" />
+    <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
     <EXCLUDED_PACKAGE NAME="jline.internal" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
     <EXCLUDED_PACKAGE NAME="org.jledit.jline" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.validator.internal" />
+    <EXCLUDED_PACKAGE NAME="org.mockito.internal" />
     <EXCLUDED_PACKAGE NAME="sun.management" />
-    <EXCLUDED_PACKAGE NAME="sun.plugin2" />
     <EXCLUDED_PACKAGE NAME="sun.util" />
+    <EXCLUDED_PACKAGE NAME="sun.misc" />
+    <EXCLUDED_PACKAGE NAME="sun.plugin" />
+    <EXCLUDED_PACKAGE NAME="sun.plugin2" />
     <EXCLUDED_PACKAGE NAME="wiremock.com.google" />
   </component>
 </application>
