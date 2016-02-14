@@ -39,8 +39,6 @@
       <option name="CSS" value="false" />
       <option name="JSP" value="false" />
       <option name="SQL" value="false" />
-      <option name="ColdFusion" value="false" />
-      <option name="AsciiDoc" value="false" />
       <option name="Bash" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="JS_EXPRESSION" value="false" />
@@ -78,8 +76,6 @@
       <option name="CSS" value="false" />
       <option name="JSP" value="false" />
       <option name="SQL" value="false" />
-      <option name="ColdFusion" value="false" />
-      <option name="AsciiDoc" value="false" />
       <option name="Bash" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="JS_EXPRESSION" value="false" />
