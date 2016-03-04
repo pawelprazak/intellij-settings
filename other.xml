@@ -66,6 +66,12 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
   <component name="RefactoringSettings">
     <option name="TYPE_COOK_EXHAUSTIVE" value="true" />
     <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
