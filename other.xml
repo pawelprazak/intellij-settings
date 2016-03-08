@@ -1,4 +1,20 @@
 <application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AOP</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="CPPToolchains">
     <option name="detectedVersion" value="4" />
   </component>
@@ -73,6 +89,7 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="RefactoringSettings">
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
     <option name="TYPE_COOK_EXHAUSTIVE" value="true" />
     <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
     <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
