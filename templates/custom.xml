@@ -16,7 +16,9 @@
     <variable name="CLASS_NAME" expression="className" defaultValue="" alwaysStopAt="false" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMS" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
   </template>
   <template name="eer" value="@org.junit.Rule&#10;public org.junit.rules.ExpectedException exception = org.junit.rules.ExpectedException.none();" description="Expected exception JUnit rule" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <context>
@@ -39,6 +41,7 @@
       <option name="XML" value="false" />
       <option name="XML_TEXT" value="false" />
       <option name="JSON" value="false" />
+      <option name="JAVA_DECLARATION" value="true" />
       <option name="Bash" value="false" />
       <option name="OTHER" value="false" />
     </context>
