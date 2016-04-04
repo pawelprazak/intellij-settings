@@ -28,7 +28,6 @@
       <option name="XML" value="false" />
       <option name="XML_TEXT" value="false" />
       <option name="JSON" value="false" />
-      <option name="Bash" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -42,7 +41,6 @@
       <option name="XML_TEXT" value="false" />
       <option name="JSON" value="false" />
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="Bash" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
