@@ -1,11 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="frege-sdk-3.23.422.ga05a487" type="Frege">
-      <properties>
-        <compiler-classpath>
-          <root url="file://$MAVEN_REPOSITORY$/org/frege-lang/frege/3.23.422-ga05a487/frege-3.23.422-ga05a487.jar" />
-        </compiler-classpath>
-      </properties>
+    <library name="frege-sdk-3.23.422.ga05a487">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/org/frege-lang/frege/3.23.422-ga05a487/frege-3.23.422-ga05a487.jar!/" />
       </CLASSES>
@@ -52,6 +47,27 @@
       <SOURCES>
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.6-sources.jar!/" />
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.6-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="scala-sdk-2.11.8" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/docs/scala-library-2.11.8-javadoc.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/docs/scala-reflect-2.11.8-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.8-sources.jar!/" />
       </SOURCES>
     </library>
   </component>
