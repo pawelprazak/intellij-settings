@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://aries.apache.org/blueprint/xmlns/blueprint-cm/v1.1.0" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/3b9e2c0b_v1.1.0.xml" />
     <resource url="http://maven.apache.org/xsd/settings-1.1.0.xsd" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/d9da5963_settings-1.1.0.xsd" />
   </component>
 </application>
