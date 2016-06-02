@@ -1,6 +1,8 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://aries.apache.org/blueprint/xmlns/blueprint-cm/v1.1.0" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/3b9e2c0b_v1.1.0.xml" />
+    <resource url="http://camel.apache.org/schema/blueprint" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/e5547c92_camel-blueprint-2.10.0.xsd" />
+    <resource url="http://camel.apache.org/schema/blueprint/camel-blueprint-2.10.0.xsd" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/e5547c92_camel-blueprint-2.10.0.xsd" />
     <resource url="http://karaf.apache.org/xmlns/features/v1.0.0" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/5fcce672_v1.0.0.xml" />
     <resource url="http://maven.apache.org/xsd/settings-1.1.0.xsd" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/d9da5963_settings-1.1.0.xsd" />
   </component>
