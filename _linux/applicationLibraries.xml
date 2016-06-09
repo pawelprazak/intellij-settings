@@ -27,9 +27,7 @@
       <SOURCES />
     </library>
     <library name="frege-sdk-3.23.422.ga05a487">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/frege-lang/frege/3.23.422-ga05a487/frege-3.23.422-ga05a487.jar!/" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC>
         <root url="http://www.frege-lang.org/doc/" />
       </JAVADOC>
