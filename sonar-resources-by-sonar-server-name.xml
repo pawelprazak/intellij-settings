@@ -1,0 +1,242 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="Sonar@10.1.18.200">
+          <value>
+            <list>
+              <Resource>
+                <option name="creationDate" value="1462197162000" />
+                <option name="date" value="1464869518000" />
+                <option name="description" value="" />
+                <option name="id" value="2478" />
+                <option name="key" value="pl.trevica.esb.cetelem:parent" />
+                <option name="longName" value="Cetelem-esb-component" />
+                <option name="name" value="Cetelem-esb-component" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1438242514000" />
+                <option name="date" value="1466478105000" />
+                <option name="description" value="" />
+                <option name="id" value="1977" />
+                <option name="key" value="pl.trevica.esb:parent" />
+                <option name="longName" value="InControl Hub" />
+                <option name="name" value="InControl Hub" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1438242514000" />
+                <option name="date" value="1466478105000" />
+                <option name="description" value="" />
+                <option name="id" value="1978" />
+                <option name="key" value="pl.trevica.esb:parent:camel-sm-authentication" />
+                <option name="longName" value="camel-sm-authentication" />
+                <option name="name" value="camel-sm-authentication" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1438242514000" />
+                <option name="date" value="1466478105000" />
+                <option name="description" value="" />
+                <option name="id" value="1982" />
+                <option name="key" value="pl.trevica.esb:parent:esb-healthcheck" />
+                <option name="longName" value="esb-healthcheck" />
+                <option name="name" value="esb-healthcheck" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1438242514000" />
+                <option name="date" value="1466478105000" />
+                <option name="description" value="" />
+                <option name="id" value="1983" />
+                <option name="key" value="pl.trevica.esb:parent:esb-incontrol-alerts" />
+                <option name="longName" value="esb-incontrol-alerts" />
+                <option name="name" value="esb-incontrol-alerts" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1438242514000" />
+                <option name="date" value="1466478105000" />
+                <option name="description" value="" />
+                <option name="id" value="1984" />
+                <option name="key" value="pl.trevica.esb:parent:esb-incontrol-api" />
+                <option name="longName" value="esb-incontrol-api" />
+                <option name="name" value="esb-incontrol-api" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1438242514000" />
+                <option name="date" value="1466478105000" />
+                <option name="description" value="" />
+                <option name="id" value="1979" />
+                <option name="key" value="pl.trevica.esb:parent:esb-incontrol-common" />
+                <option name="longName" value="esb-incontrol-common" />
+                <option name="name" value="esb-incontrol-common" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1438242514000" />
+                <option name="date" value="1466478105000" />
+                <option name="description" value="" />
+                <option name="id" value="1980" />
+                <option name="key" value="pl.trevica.esb:parent:esb-incontrol-dataaccess" />
+                <option name="longName" value="esb-incontrol-dataaccess" />
+                <option name="name" value="esb-incontrol-dataaccess" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1438242514000" />
+                <option name="date" value="1466478105000" />
+                <option name="description" value="" />
+                <option name="id" value="1981" />
+                <option name="key" value="pl.trevica.esb:parent:esb-incontrol-datasource-pg" />
+                <option name="longName" value="esb-incontrol-datasource-pg" />
+                <option name="name" value="esb-incontrol-datasource-pg" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1438242514000" />
+                <option name="date" value="1466478105000" />
+                <option name="description" value="" />
+                <option name="id" value="1985" />
+                <option name="key" value="pl.trevica.esb:parent:hawtio-incontrol-admin-jmx" />
+                <option name="longName" value="hawtio-incontrol-admin-jmx" />
+                <option name="name" value="hawtio-incontrol-admin-jmx" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1462363060000" />
+                <option name="date" value="1464864687000" />
+                <option name="description" value="" />
+                <option name="id" value="2577" />
+                <option name="key" value="pl.trevica.esb.ipass:parent" />
+                <option name="longName" value="Ipass-esb-component" />
+                <option name="name" value="Ipass-esb-component" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1462362846000" />
+                <option name="date" value="1465809987000" />
+                <option name="description" value="" />
+                <option name="id" value="2544" />
+                <option name="key" value="pl.trevica.esb.sonae:parent" />
+                <option name="longName" value="Sonae-esb-component" />
+                <option name="name" value="Sonae-esb-component" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1461936196000" />
+                <option name="date" value="1466499870000" />
+                <option name="description" value="" />
+                <option name="id" value="2413" />
+                <option name="key" value="pl.trevica.esb.stefan:parent" />
+                <option name="longName" value="Stefan" />
+                <option name="name" value="Stefan" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1461936197000" />
+                <option name="date" value="1466499870000" />
+                <option name="description" value="" />
+                <option name="id" value="2414" />
+                <option name="key" value="pl.trevica.esb.stefan:parent:esb-module-common" />
+                <option name="longName" value="esb-module-common" />
+                <option name="name" value="esb-module-common" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1461936197000" />
+                <option name="date" value="1466499870000" />
+                <option name="description" value="" />
+                <option name="id" value="2426" />
+                <option name="key" value="pl.trevica.esb.stefan:parent:esb-stefan-main" />
+                <option name="longName" value="esb-stefan-main" />
+                <option name="name" value="esb-stefan-main" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1462526183000" />
+                <option name="date" value="1463650975000" />
+                <option name="description" value="" />
+                <option name="id" value="2632" />
+                <option name="key" value="pl.trevica.esb.ivr:parent" />
+                <option name="longName" value="Stefan-ivr-proxy" />
+                <option name="name" value="Stefan-ivr-proxy" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1462526184000" />
+                <option name="date" value="1463650975000" />
+                <option name="description" value="" />
+                <option name="id" value="2633" />
+                <option name="key" value="pl.trevica.esb.ivr:parent:ivrproxy" />
+                <option name="longName" value="ivrproxy" />
+                <option name="name" value="ivrproxy" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1462526184000" />
+                <option name="date" value="1463650975000" />
+                <option name="description" value="" />
+                <option name="id" value="2685" />
+                <option name="key" value="pl.trevica.esb.ivr:parent:ivrproxy-stefan-mock" />
+                <option name="longName" value="ivrproxy-stefan-mock" />
+                <option name="name" value="ivrproxy-stefan-mock" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1462189192000" />
+                <option name="date" value="1466497172000" />
+                <option name="description" value="" />
+                <option name="id" value="2430" />
+                <option name="key" value="pl.trevica.esb.way4:parent" />
+                <option name="longName" value="Way4-esb-component" />
+                <option name="name" value="Way4-esb-component" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
