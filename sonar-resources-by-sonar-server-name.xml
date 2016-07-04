@@ -7,7 +7,7 @@
             <list>
               <Resource>
                 <option name="creationDate" value="1462197162000" />
-                <option name="date" value="1464869518000" />
+                <option name="date" value="1467209198000" />
                 <option name="description" value="" />
                 <option name="id" value="2478" />
                 <option name="key" value="pl.trevica.esb.cetelem:parent" />
@@ -19,7 +19,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1438242514000" />
-                <option name="date" value="1466478105000" />
+                <option name="date" value="1467601276000" />
                 <option name="description" value="" />
                 <option name="id" value="1977" />
                 <option name="key" value="pl.trevica.esb:parent" />
@@ -31,7 +31,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1438242514000" />
-                <option name="date" value="1466478105000" />
+                <option name="date" value="1467601276000" />
                 <option name="description" value="" />
                 <option name="id" value="1978" />
                 <option name="key" value="pl.trevica.esb:parent:camel-sm-authentication" />
@@ -43,7 +43,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1438242514000" />
-                <option name="date" value="1466478105000" />
+                <option name="date" value="1467601276000" />
                 <option name="description" value="" />
                 <option name="id" value="1982" />
                 <option name="key" value="pl.trevica.esb:parent:esb-healthcheck" />
@@ -55,7 +55,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1438242514000" />
-                <option name="date" value="1466478105000" />
+                <option name="date" value="1467601276000" />
                 <option name="description" value="" />
                 <option name="id" value="1983" />
                 <option name="key" value="pl.trevica.esb:parent:esb-incontrol-alerts" />
@@ -67,7 +67,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1438242514000" />
-                <option name="date" value="1466478105000" />
+                <option name="date" value="1467601276000" />
                 <option name="description" value="" />
                 <option name="id" value="1984" />
                 <option name="key" value="pl.trevica.esb:parent:esb-incontrol-api" />
@@ -79,7 +79,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1438242514000" />
-                <option name="date" value="1466478105000" />
+                <option name="date" value="1467601276000" />
                 <option name="description" value="" />
                 <option name="id" value="1979" />
                 <option name="key" value="pl.trevica.esb:parent:esb-incontrol-common" />
@@ -91,7 +91,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1438242514000" />
-                <option name="date" value="1466478105000" />
+                <option name="date" value="1467601276000" />
                 <option name="description" value="" />
                 <option name="id" value="1980" />
                 <option name="key" value="pl.trevica.esb:parent:esb-incontrol-dataaccess" />
@@ -103,7 +103,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1438242514000" />
-                <option name="date" value="1466478105000" />
+                <option name="date" value="1467601276000" />
                 <option name="description" value="" />
                 <option name="id" value="1981" />
                 <option name="key" value="pl.trevica.esb:parent:esb-incontrol-datasource-pg" />
@@ -115,7 +115,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1438242514000" />
-                <option name="date" value="1466478105000" />
+                <option name="date" value="1467601276000" />
                 <option name="description" value="" />
                 <option name="id" value="1985" />
                 <option name="key" value="pl.trevica.esb:parent:hawtio-incontrol-admin-jmx" />
@@ -127,7 +127,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1462363060000" />
-                <option name="date" value="1464864687000" />
+                <option name="date" value="1467285256000" />
                 <option name="description" value="" />
                 <option name="id" value="2577" />
                 <option name="key" value="pl.trevica.esb.ipass:parent" />
@@ -139,7 +139,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1462362846000" />
-                <option name="date" value="1465809987000" />
+                <option name="date" value="1467276791000" />
                 <option name="description" value="" />
                 <option name="id" value="2544" />
                 <option name="key" value="pl.trevica.esb.sonae:parent" />
@@ -151,7 +151,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1461936196000" />
-                <option name="date" value="1466499870000" />
+                <option name="date" value="1467618408000" />
                 <option name="description" value="" />
                 <option name="id" value="2413" />
                 <option name="key" value="pl.trevica.esb.stefan:parent" />
@@ -163,7 +163,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1461936197000" />
-                <option name="date" value="1466499870000" />
+                <option name="date" value="1467618408000" />
                 <option name="description" value="" />
                 <option name="id" value="2414" />
                 <option name="key" value="pl.trevica.esb.stefan:parent:esb-module-common" />
@@ -174,8 +174,20 @@
                 <option name="version" value="1.0-SNAPSHOT" />
               </Resource>
               <Resource>
+                <option name="creationDate" value="1466511789000" />
+                <option name="date" value="1467618408000" />
+                <option name="description" value="" />
+                <option name="id" value="2891" />
+                <option name="key" value="pl.trevica.esb.stefan:parent:esb-stefan-dataaccess" />
+                <option name="longName" value="esb-stefan-dataaccess" />
+                <option name="name" value="esb-stefan-dataaccess" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
                 <option name="creationDate" value="1461936197000" />
-                <option name="date" value="1466499870000" />
+                <option name="date" value="1467618408000" />
                 <option name="description" value="" />
                 <option name="id" value="2426" />
                 <option name="key" value="pl.trevica.esb.stefan:parent:esb-stefan-main" />
@@ -223,7 +235,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1462189192000" />
-                <option name="date" value="1466497172000" />
+                <option name="date" value="1467617619000" />
                 <option name="description" value="" />
                 <option name="id" value="2430" />
                 <option name="key" value="pl.trevica.esb.way4:parent" />
