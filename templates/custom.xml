@@ -21,27 +21,12 @@
     </context>
   </template>
   <template name="eer" value="@org.junit.Rule&#10;public org.junit.rules.ExpectedException exception = org.junit.rules.ExpectedException.none();" description="Expected exception JUnit rule" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="XML_TEXT" value="false" />
-      <option name="JSON" value="false" />
-      <option name="OTHER" value="false" />
-    </context>
+    <context />
   </template>
   <template name="pc" value="private $TYPE$() {&#10;    throw new java.lang.UnsupportedOperationException();&#10;}" description="private constructor" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="TYPE" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="XML_TEXT" value="false" />
-      <option name="JSON" value="false" />
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="OTHER" value="false" />
     </context>
   </template>
 </templateSet>
