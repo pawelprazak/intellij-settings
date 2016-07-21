@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '[esb-stefan-main] - .../esb-stefan-main/src/main/java/pl/trevica/esb/stefan/api'" />
-    <option name="defaultScopeName" value="Directory '[esb-stefan-main] - .../esb-stefan-main/src/main/java/pl/trevica/esb/stefan/api'" />
+    <option name="customScope" value="File '[esb-stefan-main] - .../esb-stefan-main/src/main/java/pl/trevica/esb/stefan/transport/StefanErrorResponseMapper.java'" />
+    <option name="defaultScopeName" value="File '[esb-stefan-main] - .../esb-stefan-main/src/main/java/pl/trevica/esb/stefan/transport/StefanErrorResponseMapper.java'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[esb-stefan-main] - .../esb-stefan-main/src/main/java/pl/trevica/esb/stefan/api'" />
+    <option name="SEARCH_SCOPE" value="File '[esb-stefan-main] - .../esb-stefan-main/src/main/java/pl/trevica/esb/stefan/transport/StefanErrorResponseMapper.java'" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
